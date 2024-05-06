@@ -9,18 +9,18 @@ The NMEC Oxford Malaria Amplicon Drug-resistance Sequencing (NOMADS) project beg
 
 A key component of NOMADS is making software to support implementation of the NOMADS assay. This github community includes all the tools and documentation required and currently features three main tools that interact with the assay as follows:
 
-<p align="center"><img src="nomads_overview.png" width="500"></p>
+<p align="center"><img src="images/nomads_overview.png" width="500"></p>
 
 
 ***
-<p align="right"><img src="multiply_logo.svg" width="200"></p>
+<p align="right"><img src="../multiply_logo.svg" width="200"></p>
 ## multiply
 The starting point of any implementation is ensuring that all targets are represented in the target panel. `multiply` is a command-line tool enables the in silico design of multiplexed PCRs for a user-specified set of target genes and / or regions. It can essentially target any genome or groups of genomes, and is highly flexible e.g. it can be used to augment / expand an existing panel of primers to include new targets.
 
 Github repository https://github.com/JasonAHendry/multiply
 
 ***
-<p align="right"><img src="warehouse_logo.svg" width="200"></p>
+<p align="right"><img src="../images/warehouse_logo.svg" width="200"></p>
 ## warehouse
 Sequencing data is complex and nuanced. To ensure that sequencing is comparable, trackable and well recorded, `warehouse` 'supports streamlining and standardising the storage of data generated from NOMADS assays. In particular, it encourages all experimental data to be recorded with a standardised Excel template. Python scripts then ingest, analyse and give the end-user feedback on data quality and experimental status.
 
