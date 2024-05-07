@@ -41,12 +41,16 @@ Github repository: https://github.com/nomads-community/savannah
 
 ***
 
+Recognising that bioinformatic capacity is often lacking in resource limited settings, the NOMADS team also maintains a repository with materials and resources to introduce collaborators and others interested in nanopore sequencing to some bioinformatic tools and concepts through worked practicals.
+
+Github repository: https://github.com/nomads-community/bioinformatics
+
+***
+
 For more information please contact:
 
 Daniel Bridges - dbridges@path.org
-
 Jason Hendry - jason.ahendry@gmail.com
-
 Mulenga Mwenda - mchimfwembe@path.org
 
 ***
