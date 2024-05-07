@@ -37,11 +37,15 @@ Github repository: https://github.com/nomads-community/savannah
 
 ***
 <p align="center"><b>Welcome to the NOMADS Community</b></p>
+
 ***
 
 For more information please contact:
+
 Daniel Bridges - dbridges@path.org
+
 Jason Hendry - jason.ahendry@gmail.com
+
 Mulenga Mwenda - mchimfwembe@path.org
 
 ***
