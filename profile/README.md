@@ -49,8 +49,6 @@ Github repository: https://github.com/nomads-community/bioinformatics
 
 For more information please contact:
 
-Daniel Bridges - dbridges@path.org
-Jason Hendry - jason.ahendry@gmail.com
-Mulenga Mwenda - mchimfwembe@path.org
+Daniel Bridges - dbridges@path.org / Jason Hendry - jason.ahendry@gmail.com / Mulenga Mwenda - mchimfwembe@path.org
 
 ***
