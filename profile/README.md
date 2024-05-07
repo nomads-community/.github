@@ -11,6 +11,7 @@ A key component of NOMADS is making software to support implementation of the NO
 
 <p align="center"><img src="images/nomads_overview.png" width="500"></p>
 
+<sup>1</sup> de Cesare, M. et al. Flexible and cost-effective genomic surveillance of *P. falciparum* malaria with targeted nanopore sequencing. Nat Commun 15, 1413 (2024).
 
 ***
 <p align="right"><img src="images/multiply_logo.svg" width="200"></p>
@@ -49,4 +50,3 @@ Jason Hendry - jason.ahendry@gmail.com
 Mulenga Mwenda - mchimfwembe@path.org
 
 ***
-<sup>1</sup> de Cesare, M. et al. Flexible and cost-effective genomic surveillance of *P. falciparum* malaria with targeted nanopore sequencing. Nat Commun 15, 1413 (2024).
