@@ -37,7 +37,7 @@ Github repository: https://github.com/JasonAHendry/nomadic
 ## savannah
 Sequence data analysis can be computationally expensive. While `nomadic` outputs give good approximations to draw conclusions regarding the status of a run, more accurate summaries are required for final conclusions to be drawn. `savannah` provides this higher accuracy analysis for each NOMADS sequencing run.
 
-Github repository: https://github.com/JasonAHendry/savannah
+Github repository: https://github.com/JasonAHendry/savanna
 <p align="right"><img src="../images/savannah_logo.svg" width="350"></p>
 
 ***
