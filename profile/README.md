@@ -4,7 +4,7 @@
 <p align="center"><b>Welcome to the NOMADS Community</b></p>
 
 # Overview
-The NMEC Oxford Malaria Amplicon Drug-resistance Sequencing (NOMADS) project began in 2021 with funding from the Bill & Melinda Gates Foundation to develop an **affordable**, **field-deployable**, long-read sequencing assay for malaria genomic surveillance. The resultant assay that targeted all loci associated with antimalarial drug resistance and diagnostic escape has been [publicly released](https://www.protocols.io/view/cost-effective-targeted-nanopore-sequencing-of-p-f-yxmvm25m6g3p/v2) and [published](https://pubmed.ncbi.nlm.nih.gov/38360754/)<sup>1</sup>. Additional funding has expanded the original project to these three aims:
+The NMEC Oxford Malaria Amplicon Drug-resistance Sequencing (NOMADS) project began in 2020 with funding from the Bill & Melinda Gates Foundation to develop an **affordable**, **field-deployable**, long-read sequencing assay for malaria genomic surveillance. The resultant assay that targeted all loci associated with antimalarial drug resistance and diagnostic escape has been [publicly released](https://www.protocols.io/view/cost-effective-targeted-nanopore-sequencing-of-p-f-yxmvm25m6g3p/v2) and [published](https://pubmed.ncbi.nlm.nih.gov/38360754/)<sup>1</sup>. Additional funding has expanded the original project to these three aims:
 
 1. Integrate nanopore sequencing into routine surveillance in Zambia
 2. Expand nanopore sequencing to new geographies through collaboration and capacity building
